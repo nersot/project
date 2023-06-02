@@ -1,0 +1,28 @@
+Package: blaseRtemplates
+Title: Generates a structured R project with custom templates.
+Version: 0.0.0.9199
+Authors@R: 
+    person("Brad", "Blaser", , "bradley.blaser@osumc.edu", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0002-3168-5423"))
+Description: This package generates an R project with customized templates.  It also packages bash scripts for blaserlab collaborative git workflow.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
+URL: https://github.com/blaserlab/blaseRtemplates,
+        https://blaserlab.github.io/blaseRtemplates/
+BugReports: https://github.com/blaserlab/blaseRtemplates/issues
+Imports: fs, gert, stringr, usethis, prompt, dplyr, gitcreds, renv,
+        withr, devtools, purrr, tibble, pak (>= 0.2.1), cli (>= 3.2.0),
+        rlang, rstudioapi, pkgcache, digest, readr, rjson
+Suggests: testthat (>= 3.0.0)
+Config/testthat/edition: 3
+Repository: https://blaserlab.r-universe.dev
+RemoteUrl: https://github.com/blaserlab/blaseRtemplates
+RemoteRef: HEAD
+RemoteSha: 45a9235301c7a6a1f01cbde7dacadfa5cb1991de
+NeedsCompilation: no
+Packaged: 2023-05-25 21:07:22 UTC; root
+Author: Brad Blaser [aut, cre] (<https://orcid.org/0000-0002-3168-5423>)
+Maintainer: Brad Blaser <bradley.blaser@osumc.edu>
+Built: R 4.3.0; ; 2023-06-02 18:54:42 UTC; unix

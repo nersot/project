@@ -1,0 +1,39 @@
+cache_fun               cache a single package
+catch_blasertemplates_root
+                        Make sure you are in a properly-formatted
+                        blaseRtemplates project.
+establish_new_bt        Establish a New blaseRtemplates Installation
+find_unlinked_packages
+                        Find Unlinked Packages
+fix_another_library     Fix a User-Project Library
+get_all_deps            get all package dependencies
+get_new_library         Get A New Project Library
+git_easy_branch         Easily Create or Switch Git Branches
+git_push_all            Push to All Remotes
+git_rewind_to           Rewind Git History
+git_safe_merge          Safely Merge your Working Branch
+git_update_branch       Update a Working Git Branch
+gitcreds_set            Interactively Set Github PAT
+hash_fun                Hash a single package
+hash_n_cache            hash one or more functions and then cache them
+                        and update the catalogs. Default permissions
+                        are set to 777.
+initialize_github       Initialize A Project By Forking A Github Repo
+initialize_package      Initialize a Package Using a Standard Template
+initialize_project      Create a package or project using a structured
+                        template
+install_one_package     Install One Package
+link_deps               link package dependencies
+link_one_new_package    link one new package
+project_data            Activate Project Data
+rec_get_deps            recursively get package dependencies
+regenerate_bt_configs   Regenerate .Rprofile and .Renviron Files
+regenerate_git_commands
+                        Regenerate a Git Commands File
+reset_prompt            Reset Your Console Prompt
+update_dependency_catalog
+                        update the dependency catalog
+update_package_catalog
+                        rewrite/update the package catalog
+write_project_library_catalog
+                        Write A New Project Library Catalog
